@@ -1,24 +1,12 @@
 .navbar {
   position: sticky;
   top: 0;
-}
-
-.navbar::after {
-  content: "";
-  background: #dfdfdf9b no-repeat fixed top;
-  background-blend-mode: luminosity;
-  background-size: cover;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  position: absolute;
-  z-index: -1;
-  filter: blur(3px);
+  background-color: white;
 }
 
 .logoImg {
-  width: 180px;
+  height: 60px;
+  width: auto;
 }
 
 .navbar_2 {
