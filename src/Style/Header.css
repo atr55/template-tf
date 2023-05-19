@@ -1,0 +1,20 @@
+.image {
+  position: absolute;
+  width: 20vw;
+  height: auto;
+  z-index: 2;
+}
+
+.circle {
+  position: absolute;
+  z-index: 1;
+  width: 10vw;
+  height: auto;
+  background-color: black;
+  top: 100px;
+}
+
+.container {
+  position: relative;
+  display: inline-block;
+}
