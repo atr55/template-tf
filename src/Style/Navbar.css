@@ -41,14 +41,15 @@
 }
 
 .active {
-  background-color: #ea3118;
+  background-color: #bc6c25;
   text-decoration: none;
   color: white;
   /* border: solid 1px var(--color); */
 }
 
 .btn_inactiv:hover {
-  background-color: #eabd1aa7;
+  background-color: #606c38;
+  color: white;
 }
 
 .active:hover {
@@ -68,7 +69,8 @@
 }
 
 .socialIcon svg:hover {
-  background-color: #eabd1aa7;
+  background-color: #606c38;
+  fill: white;
   border-radius: 41%;
   padding: 11px;
   transition: all 0.3s ease-in-out;

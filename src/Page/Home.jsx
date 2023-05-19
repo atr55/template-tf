@@ -3,10 +3,10 @@ import "../Style/Home.css";
 
 function Home() {
   return (
-    <div>
-      <div className="bg_color"></div>
-
-      <h1>aaaa</h1>
+    <div className="home_general">
+      <div className="home_1">
+        <h1>aaaa</h1>
+      </div>
     </div>
   );
 }
