@@ -1,5 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&family=Nanum+Myeongjo:wght@800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,300&display=swap");
 
 :root {
   --font-style: "Inter", sans-serif;
