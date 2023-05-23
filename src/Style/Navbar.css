@@ -5,7 +5,7 @@
 }
 
 .logoImg {
-  height: 60px;
+  height: 70px;
   width: auto;
 }
 
@@ -40,7 +40,7 @@
 }
 
 .active {
-  background-color: #bc6c25;
+  background-color: var(--color);
   text-decoration: none;
   color: white;
   /* border: solid 1px var(--color); */

@@ -1,4 +1,3 @@
-import React, { useState } from "react";
 import "../Style/About.css";
 
 function About() {

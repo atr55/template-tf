@@ -1,7 +1,7 @@
 import React from "react";
 import "../Style/Navbar.css";
-import Logo from "../img/logo-img.svg";
-import { Link, NavLink } from "react-router-dom";
+import Logo2 from "../img/logo.svg";
+import { NavLink } from "react-router-dom";
 
 function Navbar() {
   return (
@@ -9,7 +9,7 @@ function Navbar() {
       <div className="navbar_2">
         <div>
           <a href="/">
-            <img className="logoImg" src={Logo} alt="Logo" />{" "}
+            <img className="logoImg" src={Logo2} alt="Logo" />{" "}
           </a>
         </div>
         <div className="navLink">
