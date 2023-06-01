@@ -7,11 +7,13 @@
 
 .image {
   width: 500px;
+  width: 28vw;
+  max-width: 500px;
   height: auto;
   background-image: url(../icon/bg-img.svg);
   background-repeat: no-repeat;
-  background-size: 300px;
-  background-position: 40% 30%;
+  background-size: 310px;
+  background-position: 60% 80%;
 }
 
 .title-head {

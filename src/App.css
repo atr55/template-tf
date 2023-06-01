@@ -9,3 +9,7 @@
   --font-color: #3f3f3f;
   --navbar-bg-color: #ea3118b6;
 }
+
+* {
+  margin: 0;
+}

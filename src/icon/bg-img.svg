@@ -1,13 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 27.5.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:#986F49;}
-	.st1{fill:none;stroke:#532E11;}
-</style>
-<path class="st0" d="M76.5,59.5c0.3,6.3-2,12.5-7,18.5s-11.7,9.5-20,10.5s-17-0.3-26-4s-12.2-10.3-9.5-20s2.8-19.2,0.5-28.5
-	S15,19.2,23,13.5S39.2,7.3,47.5,12s17.2,7.5,26.5,8.5s12,6.2,8,15.5S76.2,53.2,76.5,59.5z"/>
-<path class="st1" d="M73.5,58.8c0.3,6.3-2,12.5-7,18.5s-11.7,9.5-20,10.5s-17-0.3-26-4S8.3,73.5,11,63.8s2.8-19.2,0.5-28.5
-	S12,18.5,20,12.8s16.2-6.2,24.5-1.5s17.2,7.5,26.5,8.5s12,6.2,8,15.5S73.1,52.5,73.5,58.8z"/>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="510.224" height="640.231" viewBox="0 0 510.224 640.231">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.186" y1="0.931" x2="0.722" y2="0.317" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#532e11"/>
+      <stop offset="1" stop-color="#966d47"/>
+    </linearGradient>
+  </defs>
+  <path id="blob" d="M308.277,132.29c39.19,46.106,88.369,59.169,122.18,94.516,34.579,34.579,53.79,91.443,46.105,146.769-6.916,56.1-40.727,110.653-89.137,152.148-48.411,40.727-110.653,68.39-175.969,72.232-65.316,3.074-132.938-17.674-163.675-64.548C17.813,486.534,24.728,413.533,13.971,352.059,3.981,291.354-23.682,242.943-30.6,182.237-36.746,121.532-22.914,48.531,21.655,3.962s118.337-61.474,169.054-29.2C241.424,6.268,269.856,85.416,308.277,132.29Z" transform="translate(31.98 41.979)" fill="url(#linear-gradient)"/>
 </svg>
