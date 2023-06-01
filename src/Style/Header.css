@@ -12,13 +12,8 @@
   height: auto;
   background-image: url(../icon/bg-img.svg);
   background-repeat: no-repeat;
-  background-size: 310px;
+  background-size: 36vmin 90%;
   background-position: 60% 80%;
-}
-
-.title-head {
-  display: flex;
-  flex-direction: column;
 }
 
 h1 {
@@ -28,6 +23,7 @@ h1 {
   z-index: 1;
   margin: 0 !important;
   display: flex;
+  overflow: hidden;
   letter-spacing: 2px;
   color: var(--font-color);
 }
@@ -35,10 +31,13 @@ h1 {
 .title-head {
   display: grid;
   row-gap: 20px;
+  width: 80vmin;
 }
 
 .description p {
   width: 600px;
+  width: 70vmin;
+  height: 10vmin;
   font-size: 20px;
   margin: 0;
   font-family: "Robot", sans-serif;
