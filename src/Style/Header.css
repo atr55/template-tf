@@ -11,7 +11,7 @@
   height: auto;
   background-image: url(../icon/bg-img.svg);
   background-repeat: no-repeat;
-  background-size: 36vmin 90%;
+  background-size: 18vw 90%;
   background-position: 60% 80%;
 }
 
@@ -19,6 +19,7 @@ h1 {
   font-family: "Roboto", sans-serif;
   text-transform: uppercase;
   font-size: 60px;
+  /* font-size: 6vmin; */
   z-index: 1;
   margin: 0 !important;
   display: flex;
@@ -99,5 +100,9 @@ h1 {
 
   .container {
     margin-top: 30px;
+  }
+
+  h1 {
+    font-size: 4em;
   }
 }

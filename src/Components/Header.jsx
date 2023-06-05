@@ -39,7 +39,7 @@ function Header() {
               >
                 Contact
               </button>
-              <a onClick={routeChangeAbout}>
+              <a className="see-more" onClick={routeChangeAbout}>
                 See more
                 <svg
                   xmlns="http://www.w3.org/2000/svg"

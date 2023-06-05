@@ -1,7 +1,7 @@
 .navbar {
   position: sticky;
   top: 0;
-  background-color: rgba(255, 255, 255, 0.728);
+  background-color: rgba(255, 255, 255, 0.806);
 }
 
 .logoImg {
@@ -29,6 +29,10 @@
   font-family: "Inter", sans-serif;
   padding: 0 !important;
   margin: 0 !important;
+}
+
+.navLink {
+  display: flex;
 }
 
 .btn_inactiv {
@@ -73,4 +77,18 @@
   border-radius: 41%;
   padding: 11px;
   transition: all 0.3s ease-in-out;
+}
+
+@media (max-width: 1000px) {
+  .navLink_2 {
+    flex-direction: column;
+  }
+
+  .navLink {
+    flex-direction: column;
+  }
+
+  .navbar-btn {
+    display: block;
+  }
 }

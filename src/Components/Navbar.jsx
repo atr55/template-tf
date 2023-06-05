@@ -42,6 +42,7 @@ function Navbar() {
               </NavLink>
             </li>
           </ul>
+          <button className="navbar-btn">BTN</button>
         </div>
         <div className="socialIcon">
           <a href="https://www.facebook.com" target="_blank">
