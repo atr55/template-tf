@@ -24,7 +24,6 @@
 
 .component2-element {
   display: flex;
-  gap: 20px;
 }
 
 .text {
@@ -50,4 +49,23 @@
   color: var(--font-color);
   font-family: "Inter", sans-serif;
   font-size: 19px;
+}
+
+@media (max-width: 1000px) {
+  .img {
+    display: none;
+  }
+
+  .component2-element {
+    background: var(--color);
+    height: 300px;
+  }
+
+  .title h1 {
+    color: white;
+  }
+
+  .information {
+    color: white;
+  }
 }

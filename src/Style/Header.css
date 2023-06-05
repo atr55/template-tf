@@ -2,7 +2,6 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  gap: 5vw;
 }
 
 .image {
@@ -31,13 +30,13 @@ h1 {
 .title-head {
   display: grid;
   row-gap: 20px;
-  width: 80vmin;
+  /* width: 80vmin; */
 }
 
 .description p {
   width: 600px;
-  width: 70vmin;
-  height: 10vmin;
+  /* width: 70vmin;
+  height: 10vmin; */
   font-size: 20px;
   margin: 0;
   font-family: "Robot", sans-serif;
@@ -91,4 +90,14 @@ h1 {
 .link-header a:hover {
   color: #bc6c25;
   text-decoration: underline;
+}
+
+@media (max-width: 1000px) {
+  .content-tree {
+    display: none;
+  }
+
+  .container {
+    margin-top: 30px;
+  }
 }

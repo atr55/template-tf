@@ -1,18 +1,18 @@
-import React from "react";
+import React, { useEffect, useState } from "react";
 import "../Style/Header.css";
 import headerimg from "../img/tree.png";
 import { useNavigate } from "react-router-dom";
 
 function Header() {
-  let navigatecontact = useNavigate();
+  const navigatecontact = useNavigate();
   const routeChangeContact = () => {
-    let path = "contact";
+    const path = "contact";
     navigatecontact(path);
   };
 
-  let navigateabout = useNavigate();
+  const navigateabout = useNavigate();
   const routeChangeAbout = () => {
-    let path = "about";
+    const path = "about";
     navigateabout(path);
   };
 
